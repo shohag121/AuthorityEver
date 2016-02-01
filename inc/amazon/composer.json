@@ -1,0 +1,5 @@
+{
+    "require": {
+        "exeu/apai-io": "^1.8"
+    }
+}
